@@ -1,0 +1,25 @@
+body {
+    margin: 25px;
+
+}
+
+table {
+    border: 2px solid green;
+
+}
+
+table th {
+
+    width: 1500px;
+    border: 1px solid green;
+
+}
+
+table td {
+    border: 1px solid green;
+}
+
+img {
+    width: 725px;
+    height: 500px;
+}
